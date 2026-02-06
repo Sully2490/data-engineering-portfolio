@@ -82,6 +82,15 @@ End-to-end data platform ingesting simulated UAV telemetry, processing sensor fu
 
 ---
 
+### 09 - US-Aligned Raw Materials Sourcing Pipeline
+Data pipeline for identifying and tracking raw material suppliers from the US and allied nations. Alliance classification, critical mineral tracking, and supply chain risk scoring for sourcing decisions.
+
+`Python` `Airflow` `PostgreSQL` `AWS S3` `dbt` `Streamlit`
+
+[View Project](./09-us-sourcing-pipeline)
+
+---
+
 ## Tech Stack
 
 | Category | Technologies |
